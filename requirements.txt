@@ -1,0 +1,4 @@
+flask
+selenium
+fpdf2
+python-dotenv
